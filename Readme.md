@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nikhila  
 
 ### About Me  
-I am an **11th-grade student at SEI Maruthu PU College (PCMC stream)**, passionate about technology, continuous learning, and building a strong academic foundation. My current focus is on enhancing my programming and problem-solving skills while exploring creative interests.  
+I am an **11th-grade student at SRI Maruthu PU College (PCMC stream)**, passionate about technology, continuous learning, and building a strong academic foundation. My current focus is on enhancing my programming and problem-solving skills while exploring creative interests.  
 
 ---
 
